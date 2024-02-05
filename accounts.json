@@ -9,7 +9,7 @@
       "email": "john.smith@mail.com",
       "birthyear": 1988,
       "pin": 1111,
-      "balance": 4500,
+      "balance": 17500,
       "loan": 500,
       "movements": [500, 500, -50, -200, 250, 3500],
       "status": "open"
